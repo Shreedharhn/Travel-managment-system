@@ -57,7 +57,7 @@ include('includes/config.php');
 			</div>
 			<div class="rup-rgt">
 				<h3>UP TO 70% OFF</h3>
-				<h4><a href="offers.html">ON HOTELS ACROSS WORLD  </a></h4>
+				<h4><a href="offers.html">ON HOTELS ACROSS WORLD helo there  </a></h4>
 				
 			</div>
 				<div class="clearfix"></div>
@@ -68,7 +68,7 @@ include('includes/config.php');
 			</div>
 			<div class="rup-rgt">
 				<h3>FLAT USD. 50 OFF</h3>
-				<h4><a href="offers.html">US APP OFFER</a></h4>
+				<h4><a href="offers.html">US APP OFFER i am here </a></h4>
 			
 			</div>
 				<div class="clearfix"></div>
